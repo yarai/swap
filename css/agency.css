@@ -146,6 +146,9 @@ fieldset[disabled] .btn-xl.active {
   color: #fed136;
   background-color: white;
 }
+.yellow {
+  color: #fed136;
+}
 .navbar-custom {
   background-color: #222222;
   border-color: transparent;
